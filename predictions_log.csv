@@ -1,0 +1,12 @@
+http://example.com/login,Legitimate
+http://legitwebsite.com/home,Legitimate
+http://phishingsite.com/fake-login,Legitimate
+http://example.com/login,Phishing
+http://legitwebsite.com/home,Phishing
+http://phishingsite.com/fake-login,Phishing
+http://example.com/login,Phishing
+http://legitwebsite.com/home,Phishing
+http://phishingsite.com/fake-login,Phishing
+http://example.com/login,Phishing
+http://legitwebsite.com/home,Phishing
+http://phishingsite.com/fake-login,Phishing
